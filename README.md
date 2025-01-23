@@ -16,7 +16,7 @@ I am a Bioinformatics Data Scientist with over 6 years of combined research and 
 ### Vitra Labs – San Francisco, CA
 **Bioinformatics Data Scientist**  
 _Nov 2023 – Present_
-- Developed a biomedical literature RAG system using LangChain and HuggingFace, enabling Q&A capabilities.
+- Developed a b[biomedical literature RAG system](https://github.com/qianxu05172019/biorag-oocyte) using LangChain and HuggingFace, enabling Q&A capabilities.
 - Optimized experimental designs with statistical power analysis, significantly reducing costs while maintaining robust data analysis capabilities.
 
 ### Johnson & Johnson – Boston, MA
